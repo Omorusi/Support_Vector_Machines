@@ -1,6 +1,12 @@
 # Spam Classification using SVM 
 This project classifies text messages as either spam or ham (not spam) for feature extraction and Support Vector Machines (SVM) for classification.
-
+# Data Collected 
+Data from Github
+# Technologies Used
+Python: The programming language used for model development.
+Scikit-learn: For machine learning algorithms and utilities like train_test_split, CountVectorizer, and MultinomialNB.
+Matplotlib & Seaborn: For data visualization, including generating pie charts and confusion matrices.
+Pandas: For data manipulation and cleaning.
 ## Project Overview
 Load and preprocess the dataset
 Convert text messages into numerical features using TF-IDF
