@@ -1,5 +1,5 @@
-# Spam Classification using SVM & TF-IDF
-This project classifies text messages as either spam or ham (not spam) using TF-IDF (Term Frequency-Inverse Document Frequency) for feature extraction and Support Vector Machines (SVM) for classification.
+# Spam Classification using SVM 
+This project classifies text messages as either spam or ham (not spam) for feature extraction and Support Vector Machines (SVM) for classification.
 
 ## Project Overview
 Load and preprocess the dataset
@@ -10,12 +10,6 @@ Visualize decision boundaries using matplotlib and seaborn
 Installation
 Ensure you have the necessary libraries installed:
 
-bash
-Copy
-Edit
-pip install pandas numpy scikit-learn matplotlib seaborn
-Dataset
-We use a CSV file (spam.csv) containing labeled text messages:
 
 Category: ham (0) or spam (1)
 Message: The text content of the message
